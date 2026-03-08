@@ -1,0 +1,49 @@
+body {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  padding: 40px 40px;
+  border: #030326 solid 1px;
+  margin: 80px 100px;
+  font-family: "zen maru gothic";
+}
+
+.profile {
+  font-size: 20px;
+  margin: auto 10px;
+}
+.profile-title {
+  color: rgb(3, 0, 26);
+}
+
+.profile-contents {
+  color: rgba(3, 0, 26, 0.844);
+}
+
+.logo {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  margin-top: 43px;
+  margin-bottom: 0px;
+}
+
+button {
+  width: 140px;
+  height: 45px;
+  border-radius: 20px;
+  border-color: rgba(124, 165, 202, 0.907);
+  margin: 3px auto auto 10px;
+  background-color: rgba(0, 133, 249, 0.093);
+  color: rgba(36, 74, 107, 0.925);
+  font-family: "kosugi maru";
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+}
