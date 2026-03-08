@@ -4,7 +4,7 @@ body {
   justify-content: center;
   padding: 40px 40px;
   border: #030326 solid 1px;
-  margin: 80px 100px;
+  margin: 80px 30%;
   font-family: "zen maru gothic";
 }
 
@@ -47,3 +47,4 @@ button {
   align-items: center;
   gap: 7px;
 }
+
