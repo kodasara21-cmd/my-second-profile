@@ -8,6 +8,12 @@ body {
   font-family: "zen maru gothic";
 }
 
+@media(max-kwidth:768px){
+  body{
+    flex-direction:colum;
+  }
+}
+
 .profile {
   font-size: 20px;
   margin: auto 10px;
@@ -47,4 +53,5 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
