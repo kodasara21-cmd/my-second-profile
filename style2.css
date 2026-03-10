@@ -16,6 +16,9 @@ body {
     padding:10px;
     align-items:center;
   }
+  
+ .profile{
+   text-align:center;
   .logo{
     width:120px;
     height:120px;
@@ -61,6 +64,7 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
 
 
