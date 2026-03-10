@@ -8,7 +8,6 @@ body {
   font-family: "zen maru gothic";
 }
 
-
 .profile {
   font-size: 20px;
   margin: auto 10px;
@@ -49,56 +48,36 @@ button {
   gap: 7px;
 }
 
-@media(max-width:768px){
-  body{
-    flex-direction:column;
-    margin:10px;
-    max-width:500px;   
-    padding:10px;
-    align-items:center;
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+    margin: 10px;
+    max-width: 500px;
+    padding: 10px;
+    align-items: center;
   }
-  
- .profile{
-   text-align:center;
-   margin:10px 0 0 0;
- }
-  
-  .logo{
-    width:120px;
-    height:120px;
+
+  .profile {
+    text-align: center;
+    margin: 10px 0 0 0;
+  }
+
+  .logo {
+    width: 120px;
+    height: 120px;
     margin: 0 auto 30px auto;
   }
-  .profile-title{
-    margin-bottom:10px;
+  .profile-title {
+    margin-bottom: 10px;
   }
-  .profile-contents{
-    line-height:1.6;
+  .profile-contents {
+    line-height: 1.6;
   }
-  button{
-    margin:20px auto;
-    display:block;
+  button {
+    margin: 20px auto !important;
+    display: block;
   }
-  .right-side{
-    align-items:center;
-    flex-direction:center;
-    width:100%;
+  .right-side {
+    width: 100%;
   }
-  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
