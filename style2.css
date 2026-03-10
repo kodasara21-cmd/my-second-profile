@@ -8,9 +8,9 @@ body {
   font-family: "zen maru gothic";
 }
 
-@media(max-kwidth:768px){
+@media(max-width:768px){
   body{
-    flex-direction:colum;
+    flex-direction:column;
   }
 }
 
@@ -53,5 +53,6 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
 
