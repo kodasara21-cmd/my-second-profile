@@ -65,7 +65,7 @@ button {
   .logo {
     width: 120px;
     height: 120px;
-    margin: 0 auto 10px auto;
+    margin: 10px auto 10px auto;
   }
   .profile-title {
     margin-bottom: 10px;
@@ -74,11 +74,12 @@ button {
     line-height: 1.6;
   }
   button {
-    margin: 20px auto !important;
+    margin: 10px auto !important;
     display: block;
   }
   .right-side {
     width: 100%;
   }
 }
+
 
