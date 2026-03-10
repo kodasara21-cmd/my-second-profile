@@ -23,6 +23,7 @@ body {
 .highlight-name{
   color:rgba(36, 74, 107, 0.925);
   font-family:"kosugi maru";
+  font-weight:bold;
 }
 
 .logo {
@@ -88,6 +89,7 @@ button {
     gap:0;
   }
 }
+
 
 
 
