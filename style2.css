@@ -19,13 +19,13 @@ body {
   
  .profile{
    text-align:center;
-   margin:0 0 20px 0
+   margin:10px 0 0 0;
  }
   
   .logo{
     width:120px;
     height:120px;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 30px auto;
   }
   .profile-title{
     margin-bottom:10px;
@@ -34,7 +34,7 @@ body {
     line-height:1.6;
   }
   button{
-    margin:10px auto;
+    margin:20px auto;
     diplay:block;
   }
   .right-side{
@@ -83,6 +83,7 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
 
 
