@@ -11,8 +11,13 @@ body {
 @media(max-width:768px){
   body{
     flex-direction:column;
-    margin:20px auto;
+    margin:10px;
     max-width:500px;   
+    padding:10px;
+  }
+  .logo{
+    width:120px;
+    height:120px;
   }
 }
 
@@ -55,6 +60,7 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
 
 
