@@ -75,7 +75,7 @@ button {
   }
   button {
     margin: 10px auto !important;
-    display: block;
+    
   }
   .right-side {
     display:flex;
@@ -84,6 +84,7 @@ button {
     gap:0;
   }
 }
+
 
 
 
