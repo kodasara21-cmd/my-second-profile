@@ -2,7 +2,7 @@ body {
   background-color: aliceblue;
   display: flex;
   justify-content: center;
-  padding: 40px 40px;
+  padding: 30px 40px;
   border: #030326 solid 1px;
   margin: 80px 30%;
   font-family: "zen maru gothic";
@@ -65,7 +65,7 @@ button {
   .logo {
     width: 120px;
     height: 120px;
-    margin: 0 auto 30px auto;
+    margin: 0 auto 10px auto;
   }
   .profile-title {
     margin-bottom: 10px;
@@ -81,3 +81,4 @@ button {
     width: 100%;
   }
 }
+
