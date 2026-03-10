@@ -11,7 +11,8 @@ body {
 @media(max-width:768px){
   body{
     flex-direction:column;
-    margin:20px;
+    margin:20px auto;
+    
   }
 }
 
@@ -54,6 +55,7 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
 
 
