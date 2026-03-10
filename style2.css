@@ -79,8 +79,10 @@ button {
   }
   .right-side {
     width: 100%;
+    gap:0;
   }
 }
+
 
 
 
