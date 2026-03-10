@@ -35,7 +35,7 @@ body {
   }
   button{
     margin:20px auto;
-    diplay:block;
+    display:block;
   }
   .right-side{
     align-items:center;
@@ -83,6 +83,7 @@ button {
   align-items: center;
   gap: 7px;
 }
+
 
 
 
