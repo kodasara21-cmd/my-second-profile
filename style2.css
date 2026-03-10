@@ -20,6 +20,11 @@ body {
   color: rgba(3, 0, 26, 0.844);
 }
 
+.highlight-name{
+  color:rgba(36, 74, 107, 0.925);
+  font-family:"kosugi maru";
+}
+
 .logo {
   border-radius: 100%;
   width: 150px;
@@ -83,6 +88,7 @@ button {
     gap:0;
   }
 }
+
 
 
 
